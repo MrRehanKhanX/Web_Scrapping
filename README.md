@@ -29,10 +29,10 @@ The project is part of the IBM Data Science Professional Certificate program (Co
 
 ```bash
 # Clone this repository
-git clone https://github.com/MrRehanKhanX/stock-revenue-analysis.git
+git clone https://github.com/MrRehanKhanX/Web_Scrapping.git
 
 # Navigate to the project directory
-cd stock-revenue-analysis
+cd Web_Scrapping
 
 # Install required packages
 pip install pandas numpy matplotlib yfinance beautifulsoup4 requests
@@ -42,7 +42,7 @@ pip install pandas numpy matplotlib yfinance beautifulsoup4 requests
 
 1. Open the Jupyter Notebook:
 ```bash
-jupyter notebook Stock_Revenue_Analysis.ipynb
+jupyter notebook Web_Scrapping.ipynb
 ```
 
 2. Run all cells to:
